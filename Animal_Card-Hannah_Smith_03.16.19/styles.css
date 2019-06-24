@@ -1,0 +1,33 @@
+body {
+	border: 1px solid grey;
+	width: 310px;
+	padding: 0% 1% 2% 1%;
+	font-family: serif;
+	box-shadow: 5px 5px 5px grey;
+}
+h3 {
+	padding-left: 2.5%;
+}
+img {
+	width: 300px;
+	padding: 1% 1.5%;
+	margin: auto;
+	justify-content: center;
+}
+.info {
+	width: 285px;
+	border: .5px solid grey;
+	padding: 1% 2.5%;
+	margin: auto;
+}
+.funfact {
+	font-style: italic;
+}
+span{
+	font-weight: bold;
+}
+ul{
+	list-style: none;
+	list-style-position: outside;
+	padding-left: 0;
+}
